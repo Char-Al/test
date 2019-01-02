@@ -1,3 +1,3 @@
 # README
 
-Initial commit.
+This project is a sample project with a christmas tree.
