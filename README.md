@@ -11,8 +11,11 @@ New modification
 <details>
   <summary><b>Test 1 </b></summary>
   Lorem ipsum.
-  <details>
-  <summary><b>Test 2 </b></summary>
-  Et dolores facti.
-  </details>
+  <ul>
+    <li>
+    <details>
+    <summary><b>Test 2 </b></summary>
+      Et dolores facti.
+    </details></li>
+  </ul>
 </details>
